@@ -8,10 +8,11 @@ The Hive is a team participating in UAS Challenge 2022 from NUST & FAST. Team co
 
 This repository keeps track of work distribution from Premilinary Design to Critical Design for all 4 teams:
 
-- Aerodynamic Design Team
+- Aerodynamic & CAD Design Team
     - Sarah Naeem
     - Hamza Hussain
     - Jawad Akbar
+    - Muhammad Hassan Kazmi
 
 - Power & Propulsion System Team
     - Muhammad Hassaan Ghazali
@@ -26,4 +27,3 @@ This repository keeps track of work distribution from Premilinary Design to Crit
 
 - Social Media Outreach
     - Muaz
-    - Hassan Kazmi
